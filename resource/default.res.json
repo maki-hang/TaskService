@@ -1,0 +1,55 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,npc_1_png,npc_0_png,gtanhao_png,ywenhao_png,gwenhao_png,ytanhao_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "npc_1_png",
+			"type": "image",
+			"url": "assets/npc_1.png"
+		},
+		{
+			"name": "npc_0_png",
+			"type": "image",
+			"url": "assets/npc_0.png"
+		},
+		{
+			"name": "gtanhao_png",
+			"type": "image",
+			"url": "assets/gtanhao.png"
+		},
+		{
+			"name": "ywenhao_png",
+			"type": "image",
+			"url": "assets/ywenhao.png"
+		},
+		{
+			"name": "gwenhao_png",
+			"type": "image",
+			"url": "assets/gwenhao.png"
+		},
+		{
+			"name": "ytanhao_png",
+			"type": "image",
+			"url": "assets/ytanhao.png"
+		}
+	]
+}
